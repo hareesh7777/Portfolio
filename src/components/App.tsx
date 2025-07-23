@@ -1,11 +1,11 @@
 import React, { useEffect } from "react";
-import Navbar from "./components/Navbar";
-import Intro from "./components/Intro";
-import About from "./components/About";
-import Portfolio from "./components/Portfolio";
-import Clients from "./components/Clients";
-import Contact from "./components/Contact";
-import Footer from "./components/Footer";
+import Navbar from "./Navbar";
+import Intro from "./Intro";
+import About from "./About";
+import Portfolio from "./Portfolio";
+import Clients from "./Clients";
+import Contact from "./Contact";
+import Footer from "./Footer";
 
 const App = () => {
   useEffect(() => {

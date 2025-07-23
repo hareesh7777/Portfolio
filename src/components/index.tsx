@@ -1,0 +1,9 @@
+export { default as NavLink } from "./NavLink";
+export { default as Navbar } from "./Navbar";
+export { default as Intro } from "./Intro";
+export { default as About } from "./About";
+export { default as Portfolio } from "./Portfolio";
+export { default as Clients } from "./Clients";
+export { default as Contact } from "./Contact";
+export { default as Footer } from "./Footer";
+export { default as App } from "./App";
